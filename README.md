@@ -14,7 +14,8 @@ As Render is a great platform for various hosting, they don't charge and neither
 Run free on [Repl.it](https://replit.com/@jashgro/onRender-Pinger)
 
 ## Video Guide
-[Video Guide](link_to_video_guide)
+[![YouTube video player](https://img.youtube.com/vi/cUFHlR5vMzE/0.jpg)](https://www.youtube.com/watch?v=cUFHlR5vMzE)
+
 
 ## Caution
 - Do not misuse or overuse.
