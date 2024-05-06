@@ -24,6 +24,6 @@ Run free on [Repl.it](https://replit.com/@jashgro/onRender-Pinger)
 ## Developer Details
 - Developer: Jashgro
 - Portfolio: [Jashgro Portfolio](https://bit.ly/jashgro)
-- Telegram: [Developer Telegram](https://telegram.dog/developer_x)
+- Telegram: [Developer Telegram](https://telegram.dog/deveIoper_x)
 - GitHub: [GitHub Profile](https://github.com/BlackHatDevX)
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/jash-gro)
