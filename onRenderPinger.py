@@ -5,7 +5,7 @@ def send_request(url):
     try:
         response = requests.get(url)
         if response.status_code == 200:
-            print("Request sent successfully to", url, "at", time.strftime("%H:%M:%S"))
+            print("Pingged", url, "at", time.strftime("%H:%M:%S"))
         else:
             print("Failed to send request to", url, ". Status code:", response.status_code)
     except requests.RequestException as e:
